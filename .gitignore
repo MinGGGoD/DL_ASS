@@ -1,1 +1,7 @@
 *.gz
+*.zip
+FIT5215_Dataset
+data
+.DS_Store
+other.ipynb
+test_set
