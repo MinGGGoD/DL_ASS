@@ -1,2 +1,0 @@
-# DL_ASS
-README
